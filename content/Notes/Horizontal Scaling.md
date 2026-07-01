@@ -1,0 +1,1 @@
+This is the process of adding more servers to share the load. For instance, increasing the number of servers from 1 to 2 or more. This is also called Scaling out.

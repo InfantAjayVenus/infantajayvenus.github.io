@@ -1,0 +1,2 @@
+The process of increasing a server's capacity to handle a certain amount of load.
+For instance, increasing the number of vCPU cores from 48 to 96. Or Doubling the amount of RAM allocated to a server. This is also called scaling up.
