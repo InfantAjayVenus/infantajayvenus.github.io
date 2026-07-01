@@ -5,6 +5,8 @@ on:
     branches:
       - v5
  
+env:
+  THEME_NAME: matrix
 permissions:
   contents: read
   pages: write
